@@ -48,6 +48,7 @@ hr {
     background-color: #e4f9f5;
     position: relative;
     padding-top: 100px;
+    width:100%;
 }
 .middle-container{
   margin: 100px 0;
@@ -58,7 +59,7 @@ hr {
 .bottom-container{
      background-color: #66bfbf;
     /* height: 200px; */
-    /* width: 200px; */
+    width: 100%;
     padding: 50px 0 20px;
 }
 .bottom-cloud{
